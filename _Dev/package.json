@@ -1,0 +1,31 @@
+{
+  "name": "Fairtech",
+  "version": "1.0.0",
+  "description": "Assets package for Fairtech",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ui",
+    "front end"
+  ],
+  "author": "denden permana <denden.permana@gmail.com>",
+  "license": "ISC",
+  "homepage": "//Fairtech.com",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-flatten": "^0.4.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "handlebars": "^4.7.3"
+  }
+}
